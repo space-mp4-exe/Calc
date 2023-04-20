@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "100a0a304ab79e5a",
+    "id": "7bfa6422ba82eaf0",
     "type": "split",
     "children": [
       {
-        "id": "f7c4f28a5a857fd0",
+        "id": "6c018378c1227975",
         "type": "tabs",
         "children": [
           {
-            "id": "0d9cce9293870f43",
+            "id": "a281edb403a84af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometric and P-series.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef4d0da485f61b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integral Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4ed5121002f1cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "Maclaurin and Taylor series.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cd293809ade97f6a",
+    "id": "3a135a588f8bc8cd",
     "type": "split",
     "children": [
       {
-        "id": "314af583e31a792f",
+        "id": "684384bf20c90661",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ab5aa62d74c623",
+            "id": "769ec8a1ea5bdfe8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "11acc818a610a63e",
+            "id": "6c751d0d2f1aa4a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "dc849455b18fb25b",
+            "id": "c401575abf36ace5",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -97,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "211074c9b1339944",
+    "id": "e40ddebf69f55d45",
     "type": "split",
     "children": [
       {
-        "id": "4d850c002cb5d3f4",
+        "id": "8f4ef4d62e4f0d72",
         "type": "tabs",
         "children": [
           {
-            "id": "8c955ad25564daac",
+            "id": "47d5478df0f48a9f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "Maclaurin and Taylor series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "7c51f7f21b33429c",
+            "id": "3962f3fb77edf7b7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "Maclaurin and Taylor series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "079da1bfb8e01937",
+            "id": "18dbf8b1dc816ce7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +120,12 @@
             }
           },
           {
-            "id": "cb0a0298a2d5fe10",
+            "id": "b87f6f784cc402fc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Limit Comparison Test.md"
+                "file": "Maclaurin and Taylor series.md"
               }
             }
           }
@@ -171,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4ed5121002f1cb4",
+  "active": "a281edb403a84af2",
   "lastOpenFiles": [
-    "Integral Test.md",
     "Limit Comparison Test.md",
+    "Integral Test.md",
+    "Maclaurin and Taylor series.md",
     "README.md",
-    "Geometric and P-series.md",
-    "Maclaurin and Taylor series.md"
+    "Geometric and P-series.md"
   ]
 }
