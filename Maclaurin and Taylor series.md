@@ -33,11 +33,11 @@ you can see a pattern that all the even derivatives of $f(x)$ are equal to zero,
 if we write out the series it will be equal to:  
 $$f(0) + \frac{f'(0)}{1!}x + \frac{f''(0)}{2!}x^2 + \frac{f'''(0)}{3!}x^3+...$$ if we plug in the numbers it is also equal to $$0 + \frac{x}{1!}+0-\frac{x^3}{3!}+...$$  
 if continue to simplfy the equation we get:
-$$\frac{x}{1!}-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+... $$ There are two things that we can see from this series
+$$\frac{x}{1!}-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+...$$ There are two things that we can see from this series
 1. The odd terms are negative
 2. The numerator are odd powers
 3. the denominator are ! of odd numbers
 With this information we can write out the series to be  
-$$\sum^{\infty}_{n=0} (-1)^n\frac{x^{2n+1}}{(2n+1)!} $$  
+$$\sum^{\infty}_{n=0} (-1)^n\frac{x^{2n+1}}{(2n+1)!}$$  
 $$|R_{n}| \leq \frac{M}{(n + 1)!} |x - a|^{n+1}$$  
-$$ M \leq |f^{n+1}(x)|$$
+$$M \leq |f^{n+1}(x)|$$
