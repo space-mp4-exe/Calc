@@ -26,7 +26,8 @@ f'(0) &= 1 \\
 f''(0) &= 0 \\
 f'''(0)& = -1 \\
 f^{(4)}() &= 0
-\end{aligned}$$ you can see a pattern that all the even derivatives of $f(x)$ are equal to zero, so we can just focus on the odd derivatives, which are either equal to 1 or -1 which means that it's alternating.
+\end{aligned}$$ 
+you can see a pattern that all the even derivatives of $f(x)$ are equal to zero, so we can just focus on the odd derivatives, which are either equal to 1 or -1 which means that it's alternating.
 if we write out the series it will be equal to:
 $$f(0) + \frac{f'(0)}{1!}x + \frac{f''(0)}{2!}x^2 + \frac{f'''(0)}{3!}x^3+...$$ if we plug in the numbers it is also equal to $$0 + \frac{x}{1!}+0-\frac{x^3}{3!}+...$$ 
 if continue to simplfy the equation we get:
