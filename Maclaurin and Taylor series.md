@@ -36,7 +36,7 @@ if continue to simplfy the equation we get:
 $$\frac{x}{1!}-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+...$$ There are two things that we can see from this series
 1. The odd terms are negative
 2. The numerator are odd powers
-3. the denominator are ! of odd numbers
+3. the denominator are factorials of odd numbers
 With this information we can write out the series to be  
 
 $$\sum^{\infty}_{n=0} (-1)^n\frac{x^{2n+1}}{(2n+1)!}$$
