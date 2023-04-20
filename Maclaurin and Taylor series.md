@@ -2,7 +2,7 @@ For this class we will use Maclaurin and Taylor series to find the series repres
 
 Taylors series:
 
-$$ \sum^{\infty}_{n = 0}\frac{f^{n}(a)}{n!}(x-a)^{n}$$
+$$ \sum^{\infty}_{n = 0}\frac{f^{n}(a)}{n!}(x-a)^{n}$$  
 The difference between Taylor and Maclaurin series is that Maclaurin series are "centered at 0", which means that a in the equation equals 0.
 We could use a Maclaurin series to find the series representation of $sin(x)$.
 You can see in the definition of $M$ that $f(x)$ is being taken to the *nth* derivative, so we should first find a pattern in the derivatives of $f(x)$ to find a value of $M$.
