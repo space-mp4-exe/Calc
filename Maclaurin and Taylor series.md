@@ -8,13 +8,17 @@ We could use a Maclaurin series to find the series representation of $sin(x)$.
 You can see in the definition of $M$ that $f(x)$ is being taken to the *nth* derivative, so we should first find a pattern in the derivatives of $f(x)$ to find a value of $M$.
 
 The derivatives of $sin(x)$ are:
-$$\begin{aligned} 
+
+$$
+\begin{aligned} 
 f(x) &= sin(x) \\ 
 f'(x) &= cos(x) \\
 f''(x) &= -sin(x) \\
 f'''(x)& = -cos(x) \\
 f^{(4)}(x) &= sin(x)
-\end{aligned}$$
+\end{aligned}
+$$
+
 the values of those derivatives at zero (because this is a Maclaurin series) are:
 $$\begin{aligned} 
 f(0) &= 0 \\ 
