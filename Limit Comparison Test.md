@@ -9,5 +9,6 @@ $$\begin{aligned}
 \lim_{n\to\infty}&\frac{\frac{1}{2^{n}-1}}{\frac{1}{2^{n}}} \\
 \lim_{n\to\infty}&\frac{2^{n}}{2^{n}-1}
 \end{aligned}$$
+
 which all equals 1. 1 is finite and positive, so $\sum a_{n}$ and $\sum b_{n}$ are either both convergent or both divergent. 
 We can say that $\sum b_{n}$ is convergent because it is a geometric series with a $r = \frac{1}{2}$. So $\sum a_{n}$ is also **convergent**!
