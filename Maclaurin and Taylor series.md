@@ -26,7 +26,7 @@ f(0) &= 0 \\
 f'(0) &= 1 \\
 f''(0) &= 0 \\
 f'''(0)& = -1 \\
-f^{(4)}() &= 0
+f^{(4)}(0) &= 0
 \end{aligned}$$ 
 
 you can see a pattern that all the even derivatives of $f(x)$ are equal to zero, so we can just focus on the odd derivatives, which are either equal to 1 or -1 which means that it's alternating.
