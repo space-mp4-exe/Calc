@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "753d242e2ff5c5b7",
+            "id": "0d9cce9293870f43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maclaurin and Taylor series.md",
+                "file": "Geometric and P-series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef4d0da485f61b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integral Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4ed5121002f1cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limit Comparison Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "211074c9b1339944",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maclaurin and Taylor series.md",
+                "file": "Limit Comparison Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maclaurin and Taylor series.md",
+                "file": "Limit Comparison Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maclaurin and Taylor series.md"
+                "file": "Limit Comparison Test.md"
               }
             }
           }
@@ -147,9 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7ab5aa62d74c623",
+  "active": "c4ed5121002f1cb4",
   "lastOpenFiles": [
+    "Integral Test.md",
+    "Limit Comparison Test.md",
     "README.md",
+    "Geometric and P-series.md",
     "Maclaurin and Taylor series.md"
   ]
 }
