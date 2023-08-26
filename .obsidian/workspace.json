@@ -1,19 +1,27 @@
 {
   "main": {
-    "id": "100a0a304ab79e5a",
+    "id": "7bfa6422ba82eaf0",
     "type": "split",
     "children": [
       {
-        "id": "f7c4f28a5a857fd0",
+        "id": "6c018378c1227975",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "a93ee8fd0f08fd97",
+=======
+            "id": "a281edb403a84af2",
+>>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Lines and Planes.md",
+=======
+                "file": "Maclaurin and Taylor series.md",
+>>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cd293809ade97f6a",
+    "id": "3a135a588f8bc8cd",
     "type": "split",
     "children": [
       {
-        "id": "314af583e31a792f",
+        "id": "684384bf20c90661",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ab5aa62d74c623",
+            "id": "769ec8a1ea5bdfe8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +51,7 @@
             }
           },
           {
-            "id": "11acc818a610a63e",
+            "id": "6c751d0d2f1aa4a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +66,7 @@
             }
           },
           {
-            "id": "dc849455b18fb25b",
+            "id": "c401575abf36ace5",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -80,20 +88,24 @@
     "width": 238.5
   },
   "right": {
-    "id": "211074c9b1339944",
+    "id": "e40ddebf69f55d45",
     "type": "split",
     "children": [
       {
-        "id": "4d850c002cb5d3f4",
+        "id": "8f4ef4d62e4f0d72",
         "type": "tabs",
         "children": [
           {
-            "id": "8c955ad25564daac",
+            "id": "47d5478df0f48a9f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Lines and Planes.md",
+=======
+                "file": "Maclaurin and Taylor series.md",
+>>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +117,23 @@
             }
           },
           {
-            "id": "7c51f7f21b33429c",
+            "id": "3962f3fb77edf7b7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Lines and Planes.md",
+=======
+                "file": "Maclaurin and Taylor series.md",
+>>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "079da1bfb8e01937",
+            "id": "18dbf8b1dc816ce7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +144,16 @@
             }
           },
           {
-            "id": "cb0a0298a2d5fe10",
+            "id": "b87f6f784cc402fc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Lines and Planes.md"
+=======
+                "file": "Maclaurin and Taylor series.md"
+>>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
               }
             }
           }
@@ -154,6 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "a93ee8fd0f08fd97",
   "lastOpenFiles": [
     "Geometric and P-series.md",
@@ -162,5 +183,14 @@
     "Limit Comparison Test.md",
     "Maclaurin and Taylor series.md",
     "README.md"
+=======
+  "active": "a281edb403a84af2",
+  "lastOpenFiles": [
+    "Limit Comparison Test.md",
+    "Integral Test.md",
+    "Maclaurin and Taylor series.md",
+    "README.md",
+    "Geometric and P-series.md"
+>>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
   ]
 }
