@@ -1,27 +1,19 @@
 {
   "main": {
-    "id": "7bfa6422ba82eaf0",
+    "id": "6a6924d0702b5da0",
     "type": "split",
     "children": [
       {
-        "id": "6c018378c1227975",
+        "id": "7d5a2c933e1875ea",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "a93ee8fd0f08fd97",
-=======
-            "id": "a281edb403a84af2",
->>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
+            "id": "466f782b3883095f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Lines and Planes.md",
-=======
-                "file": "Maclaurin and Taylor series.md",
->>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
                 "mode": "source",
                 "source": false
               }
@@ -33,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a135a588f8bc8cd",
+    "id": "cbef99cc0a8367aa",
     "type": "split",
     "children": [
       {
-        "id": "684384bf20c90661",
+        "id": "a90ac47d90c95ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "769ec8a1ea5bdfe8",
+            "id": "4e66533d9a022913",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +43,7 @@
             }
           },
           {
-            "id": "6c751d0d2f1aa4a3",
+            "id": "df58fbf533e25952",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,15 +58,7 @@
             }
           },
           {
-            "id": "c401575abf36ace5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "f13cf4719d4cb5b7",
+            "id": "026ac4581ff97110",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 300
   },
   "right": {
-    "id": "e40ddebf69f55d45",
+    "id": "e3c312cbea3bfd65",
     "type": "split",
     "children": [
       {
-        "id": "8f4ef4d62e4f0d72",
+        "id": "fde06bed33b1be81",
         "type": "tabs",
         "children": [
           {
-            "id": "47d5478df0f48a9f",
+            "id": "816b48355bfc6a2a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Lines and Planes.md",
-=======
-                "file": "Maclaurin and Taylor series.md",
->>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +97,19 @@
             }
           },
           {
-            "id": "3962f3fb77edf7b7",
+            "id": "0b862d3362f5cff0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Lines and Planes.md",
-=======
-                "file": "Maclaurin and Taylor series.md",
->>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "18dbf8b1dc816ce7",
+            "id": "5b6338a1af7fcc04",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,16 +120,12 @@
             }
           },
           {
-            "id": "b87f6f784cc402fc",
+            "id": "c6b92c373a3fe7e7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Lines and Planes.md"
-=======
-                "file": "Maclaurin and Taylor series.md"
->>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
               }
             }
           }
@@ -174,23 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "a93ee8fd0f08fd97",
+  "active": "466f782b3883095f",
   "lastOpenFiles": [
-    "Geometric and P-series.md",
-    "Lines and Planes.md",
-    "Integral Test.md",
-    "Limit Comparison Test.md",
-    "Maclaurin and Taylor series.md",
-    "README.md"
-=======
-  "active": "a281edb403a84af2",
-  "lastOpenFiles": [
-    "Limit Comparison Test.md",
-    "Integral Test.md",
-    "Maclaurin and Taylor series.md",
-    "README.md",
-    "Geometric and P-series.md"
->>>>>>> e1fe6afe56d833e4c45499cec0a1dd241f9bbf3d
+    "Maclaurin and Taylor series.md"
   ]
 }
