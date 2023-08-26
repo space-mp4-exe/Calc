@@ -1,4 +1,4 @@
-This is a gemetric series:
+This is a geometric series:
 $$\sum^{\infty}_{n=1}ar^{n-1}$$
 This series is convergent when $|r| < 1$.
 This is a P-series:
